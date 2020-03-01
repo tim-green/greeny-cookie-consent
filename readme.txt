@@ -12,7 +12,7 @@ A simple and friendly WordPress plugin for developer's that let visitors know th
 
 == Description ==
 
-There are many WordPress plugins out there which does a lot of fancy things with the cookie consent. I just wanted to developed a WordPress plugin, and it seems like a Cookie based plugin is a good category to start with, this plugin is really lightweight and developer-friendly, and so we created our own.
+There are many WordPress plugins out there which does a lot of fancy things with the cookie consent. I just wanted to developed a WordPress plugin, and it seems like a Cookie based plugin is a good category to start with, this plugin is really lightweight and developer-friendly, and so I created my own.
 
 This plugin isn't meant for the crowds who want tons of configurable options in the admin, many use this plugin with the default styling because it is so lightweight and matches a lot of websites who wants a notification looking style
 
