@@ -1,0 +1,123 @@
+# Copyright (C) 2019 Tim Green
+# This file is distributed under the same license as the tgwp Cookie Consent package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tgwp Cookie Consent 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ilcc\n"
+"POT-Creation-Date: 2020-01-03 15:05:03+00:00\n"
+"MIME-Version: 0.0.1\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: node-wp-i18n 1.2.3\n"
+
+#: tgwp-cookie-consent.php:234
+msgid "Cookie Banner"
+msgstr ""
+
+#: tgwp-cookie-consent.php:235
+msgid ""
+"Customise the appearance and texts in the cookie banner, used for EU cookie "
+"compliance."
+msgstr ""
+
+#: tgwp-cookie-consent.php:243 tgwp-cookie-consent.php:347
+msgid "This website uses cookies to enhance the browsing experience"
+msgstr ""
+
+#: tgwp-cookie-consent.php:249
+msgid "Title"
+msgstr ""
+
+#: tgwp-cookie-consent.php:250
+msgid "Keep the title short. It is styled prominently."
+msgstr ""
+
+#: tgwp-cookie-consent.php:260
+msgid ""
+"By continuing you give us permission to deploy cookies as per our "
+"%linkstart%privacy and cookies policy%linkend%."
+msgstr ""
+
+#: tgwp-cookie-consent.php:266
+msgid "Text"
+msgstr ""
+
+#: tgwp-cookie-consent.php:267
+msgid ""
+"A secondary line of info about your cookie usage. Remember to link to the "
+"policy by using the %linkstart% and %linkend% placeholders."
+msgstr ""
+
+#: tgwp-cookie-consent.php:283
+msgid "Cookie Policy Link"
+msgstr ""
+
+#: tgwp-cookie-consent.php:284
+msgid ""
+"Enter a link to your privacy and cookie policy where you outline the use of "
+"cookies."
+msgstr ""
+
+#: tgwp-cookie-consent.php:294 tgwp-cookie-consent.php:402
+msgid "I Understand"
+msgstr ""
+
+#: tgwp-cookie-consent.php:300
+msgid "Button Text"
+msgstr ""
+
+#: tgwp-cookie-consent.php:301
+msgid ""
+"Displays the message on the action button that closes the consent banner "
+"and assumes consent."
+msgstr ""
+
+#: tgwp-cookie-consent.php:317
+msgid "Style"
+msgstr ""
+
+#: tgwp-cookie-consent.php:318
+msgid ""
+"The banner can appear both at the top, or overlaid at the bottom of the "
+"page."
+msgstr ""
+
+#: tgwp-cookie-consent.php:324
+msgid "Top"
+msgstr ""
+
+#: tgwp-cookie-consent.php:325
+msgid "Overlay"
+msgstr ""
+
+#: tgwp-cookie-consent.php:366
+#. translators: 1. Policy URL
+msgid ""
+"By continuing you give us permission to deploy cookies as per our <a "
+"href=\"%s\" rel=\"nofollow\">privacy and cookies policy</a>."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "tgwp Cookie Consent"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/tim-green/tgwp-cookie-consent"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A simple, dev friendly plugin for WordPress that let visitors know that the site is "
+"using cookies"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tim Green"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.timgreen.ws/"
+msgstr ""
