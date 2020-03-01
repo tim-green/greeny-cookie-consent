@@ -206,7 +206,7 @@ class TGWP_Cookie_Consent {
 		/**
 		 * Register the main stylesheet.
 		 */
-		wp_register_style( 'cookie-consent', $this->plugin_url . '/assets/css/cookie-banner.css', false, $this->version, 'all' );
+		wp_register_style( 'cookie-consent', $this->plugin_url . '/assets/css/cookie-banner.min.css', false, $this->version, 'all' );
 
 		// Finally, enqueue!
 		wp_enqueue_style( 'cookie-consent' );
