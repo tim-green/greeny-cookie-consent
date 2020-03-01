@@ -1,4 +1,4 @@
-#Cookie Consent WP Plugin
+# Cookie Consent WP Plugin
 
 A simple and friendly WordPress plugin for developer's that let visitors know that the site is using cookies.
 
