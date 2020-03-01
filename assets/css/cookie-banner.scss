@@ -152,18 +152,18 @@ body.tgwp-style-overlay {
 		left: 50%;
 		transform: translateX(-50%);
 		width: 90%;
-		max-width: 50rem;
+		max-width: 70rem;
 		z-index: 999;
 		border-radius: 4px;
 		box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), 1px 2px 5px rgba(0, 0, 0, 0.1);
 
 		p {
 			flex: 1;
-			font-size: 0.85rem;
+			font-size: 1.15rem;
 			margin: 0;
 
 			span {
-				font-size: 0.95rem;
+				font-size: 2.15rem;
 				display: block;
 				font-weight: bold;
 			}
